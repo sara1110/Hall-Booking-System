@@ -1,0 +1,4 @@
+{"username": "san", "password": "321", "firstname": "Santiago", "lastname": "Gallardo Dominguez", "dob": "09042003", "contactNo": "+60 014 0219 1218", "email": "sgd@email.com"}
+{"username": "rd", "password": "321", "firstname": "Rodolfo", "lastname": "Dominguez", "dob": "03091930", "contactNo": "+54 221 677 3091", "email": "rd@email.com"}
+{"username": "kishanTheGod", "password": "321", "firstname": "ki", "lastname": "ku", "dob": "04072004", "contactNo": "+60 016 932 1374", "email": "kishiks@email.com"}
+{"username": "sara", "password": "1234", "firstname": "sara", "lastname": "satan", "dob": "11102004", "contactNo": "+60 123 4567 8910", "email": "sara@email.com"}

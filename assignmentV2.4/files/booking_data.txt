@@ -1,0 +1,3 @@
+{"BookingID": 1, "User": "san", "StartTime": 9, "EndTime": 10, "HallID": 0, "BookingDate": "01022024"}
+{"BookingID": 2, "User": "san", "StartTime": 9, "EndTime": 10, "HallID": 0, "BookingDate": "01042024"}
+{"BookingID": 3, "User": "san", "StartTime": 12, "EndTime": 14, "HallID": 2, "BookingDate": "09032024"}
